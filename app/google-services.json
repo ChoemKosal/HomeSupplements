@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "593623299430",
+    "firebase_url": "https://homesupplement-e61ed.firebaseio.com",
+    "project_id": "homesupplement-e61ed",
+    "storage_bucket": "homesupplement-e61ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593623299430:android:22e8cc73070bd058",
+        "android_client_info": {
+          "package_name": "com.kh.homesupplement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593623299430-a4tjg3hhmiu3vqevlh1diqoi1ei4ckdc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kh.homesupplement",
+            "certificate_hash": "1227a757fc68ea5e3819cde446a747d186ad9a34"
+          }
+        },
+        {
+          "client_id": "593623299430-omq0b48pv7bjeluclv6jr8urbeis28f4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtaznxRH0aXCEMUj6uXInk1wWCubfatp8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593623299430-omq0b48pv7bjeluclv6jr8urbeis28f4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

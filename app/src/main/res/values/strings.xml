@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Home Supplement</string>
+    <string name="FACEBOOK_APP_ID">470290300376695</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">67ed5d8167ab4426557f1fc23b6ae77d</string>
+
+    // if your Facebook App ID is 1234567, you should use ak1234567
+    <string name="ak_login_protocol_scheme">ak67ed5d8167ab4426557f1fc23b6ae77d</string>
+
+    <string name="full_name">full name</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="phone">phone</string>
+    <string name="register">Register</string>
+    <string name="input_error_name">name required</string>
+    <string name="input_error_email">email required</string>
+    <string name="input_error_password">password required</string>
+    <string name="input_error_phone">phone required</string>
+    <string name="input_error_password_length">password should be atleast 6 characters long</string>
+    <string name="input_error_phone_invalid">enter a valid phone number</string>
+    <string name="registration_success">Registered Successfully</string>
+    <string name="input_error_email_invalid">enter a valid email</string>
+</resources>
